@@ -1,6 +1,3 @@
-githubtocolab.com
-
-
 Link para resolução de cadeias impostas
 https://githubtocolab.com/MateusPL747/linckage_mechanism_solver/blob/main/Python-CadeiaImposta.ipynb
 
